@@ -5,10 +5,14 @@ import Homemain from '../Components/Homemain';
 import Footer from '../Components/Footer';
 
 const Home = () => {
+  
+
   return (
     <>
-    <Homeheader/>
+    <Homeheader />
+
     <Homemain/>
+
     <Footer/>
     </>
    
