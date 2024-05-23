@@ -32,6 +32,9 @@ This project is a movie recommendation system that suggests movies based on a pr
 2. Install dependencies using `npm install`.
 3. Run the React app using `npm run dev`.
 
+## Live Link
+
+https://movie-recommender-system1.netlify.app/
    
 ## Screen Shots
 ### Home page
